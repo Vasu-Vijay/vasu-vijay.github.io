@@ -1,3 +1,1 @@
-# vasu-vijay.github.io
-
-[Click here](https://vasu-vijay.github.io/Physics-demos)
+[Click here](https://vasu-vijay.github.io/Physics-demos) to open the physics demos website
